@@ -1,4 +1,4 @@
-package com.kate.myapplication
+package com.kate.lab11
 
 import org.junit.Test
 
